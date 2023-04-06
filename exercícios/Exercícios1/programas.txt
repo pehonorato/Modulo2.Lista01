@@ -1,5 +1,0 @@
-.jpg(Prints)
-.java(Vamos, e também usamos em "sala" de aula)
-.por(Usamos para mandar arquivos)
-.txt(Arquivos de textos)
-.git(Arquivos do github)
